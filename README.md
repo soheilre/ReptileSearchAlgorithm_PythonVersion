@@ -23,7 +23,7 @@
 
 Original Paper (Expert Systems with Applications, Volume 191, 1 April 2022, 116158): https://www.sciencedirect.com/science/article/abs/pii/S0957417421014810
 
-##**-->Formulated and Coded by Soheil Shoar--<##**
+##**-->Formulated and Coded by Soheil Shoar<--##**
 
 *PhD in Transportation Planning*
 
